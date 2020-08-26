@@ -1,7 +1,7 @@
 # Flutter Whatsapp Clone. 
 
-Flutter Instagram Clone. 
-This is a simple flutter application where I have clonned Instagram UI.
+Flutter Whatsapp Clone. 
+This is a simple flutter application where I have clonned Whatsapp UI.
 Created by [Joan Louji](https://joanlouji.web.app/)
 
 ## Installation
