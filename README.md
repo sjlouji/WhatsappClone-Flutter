@@ -20,9 +20,9 @@ flutter run
 <img src="Demo/WhatsappClone9.gif" height="300em" /> <br>
 <img src="Demo/WhatsappClone1.png" height="300em" /> <br>
 <img src="Demo/WhatsappClone3.png" height="300em" /> <br>
-<img src="Demo/InstagramClone4.png" height="300em" /> <br>
 <img src="Demo/WhatsappClone6.png" height="300em" /> <br>
 <img src="Demo/WhatsappClone5.png" height="300em" /> <br>
+<img src="Demo/WhatsappClone4.png" height="300em" /> <br>
 <img src="Demo/WhatsappClone7.png" height="300em" /> <br>
 
 Thank you for your support. 
